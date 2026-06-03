@@ -295,5 +295,15 @@
     "image_count": 1,
     "cycle_index": 5,
     "fingerprint": "789e809ae826f007625bf18fda38fddb"
+  },
+  {
+    "date": "2026-06-03",
+    "week_num": 1,
+    "topic": "Claude 3.5 中文使用指南：比ChatGPT强在哪",
+    "type": "ai_tutorial",
+    "article_path": "content/ai_tutorials/2026-06-03_Claude_3.5_中文使用指南_比ChatGPT强在哪.md",
+    "image_count": 1,
+    "cycle_index": 12,
+    "fingerprint": "c99cf8eef1fb481ee6e664256365fee1"
   }
 ]
