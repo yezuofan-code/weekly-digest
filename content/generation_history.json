@@ -305,5 +305,15 @@
     "image_count": 1,
     "cycle_index": 12,
     "fingerprint": "c99cf8eef1fb481ee6e664256365fee1"
+  },
+  {
+    "date": "2026-06-04",
+    "week_num": 1,
+    "topic": "Perplexity AI 搜索工具使用教程：比Google更好用",
+    "type": "ai_tutorial",
+    "article_path": "content/ai_tutorials/2026-06-04_Perplexity_AI_搜索工具使用教程_比Google更好用.md",
+    "image_count": 1,
+    "cycle_index": 17,
+    "fingerprint": "d1b8c1e27f39bd841cdcb47657218fab"
   }
 ]

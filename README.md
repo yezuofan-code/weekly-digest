@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  📅 持续更新 · 已发布 31 篇内容
+  📅 持续更新 · 已发布 32 篇内容
 </p>
 
 <p align="center">
-  <a href="#AI 教程"><img src="https://img.shields.io/badge/AI 教程-5-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
+  <a href="#AI 教程"><img src="https://img.shields.io/badge/AI 教程-6-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#选购指南"><img src="https://img.shields.io/badge/选购指南-10-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#对比评测"><img src="https://img.shields.io/badge/对比评测-4-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#实用指南"><img src="https://img.shields.io/badge/实用指南-4-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
@@ -22,6 +22,8 @@
 
 ## AI 教程
 
+- [Perplexity AI 搜索工具使用教程：比Google更好用](content/ai_tutorials/2026-06-04_Perplexity_AI_搜索工具使用教程_比Google更好用.md) — 2026-06-04  
+  <sub>AI教程 · 效率工具 · 入门指南</sub>
 - [Claude 3.5 中文使用指南：比ChatGPT强在哪](content/ai_tutorials/2026-06-03_Claude_3.5_中文使用指南_比ChatGPT强在哪.md) — 2026-06-03  
   <sub>AI教程 · 效率工具 · 入门指南</sub>
 - [2026年必装的10个AI工具，提升工作效率200%](content/ai_tutorials/2026-05-27_2026年必装的10个AI工具，提升工作效率200%.md) — 2026-05-27  
