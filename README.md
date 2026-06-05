@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  📅 持续更新 · 已发布 32 篇内容
+  📅 持续更新 · 已发布 33 篇内容
 </p>
 
 <p align="center">
   <a href="#AI 教程"><img src="https://img.shields.io/badge/AI 教程-6-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#选购指南"><img src="https://img.shields.io/badge/选购指南-10-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#对比评测"><img src="https://img.shields.io/badge/对比评测-4-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
-  <a href="#实用指南"><img src="https://img.shields.io/badge/实用指南-4-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
+  <a href="#实用指南"><img src="https://img.shields.io/badge/实用指南-5-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#promotion"><img src="https://img.shields.io/badge/promotion-1-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#深度评测"><img src="https://img.shields.io/badge/深度评测-6-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#故障排查"><img src="https://img.shields.io/badge/故障排查-1-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
@@ -68,6 +68,8 @@
 
 ## 实用指南
 
+- [家庭多设备共享网络加速的最佳方案：路由器端配置详解](content/guides/2026-06-05_家庭多设备共享网络加速的最佳方案_路由器端配置详解.md) — 2026-06-05  
+  <sub>实用教程 · 经验分享 · 配置指南</sub>
 - [DeepSeek 2026 使用指南：国产AI的进步](content/guides/2026-05-28_DeepSeek_2026_使用指南_国产AI的进步.md) — 2026-05-28  
   <sub>实用教程 · 经验分享 · 配置指南</sub>
 - [Mac 上配置网络加速的几种方式对比](content/guides/2026-05-27_Mac_上配置网络加速的几种方式对比.md) — 2026-05-27  
