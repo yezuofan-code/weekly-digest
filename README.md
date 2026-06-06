@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  📅 持续更新 · 已发布 33 篇内容
+  📅 持续更新 · 已发布 34 篇内容
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
   <a href="#实用指南"><img src="https://img.shields.io/badge/实用指南-5-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#promotion"><img src="https://img.shields.io/badge/promotion-1-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#深度评测"><img src="https://img.shields.io/badge/深度评测-6-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
-  <a href="#故障排查"><img src="https://img.shields.io/badge/故障排查-1-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
+  <a href="#故障排查"><img src="https://img.shields.io/badge/故障排查-2-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
 </p>
 
 <br>
@@ -100,6 +100,8 @@
 
 ## 故障排查
 
+- [网络加速后依然被屏蔽？DNS泄露自查与修复指南](content/troubleshooting/2026-06-06_网络加速后依然被屏蔽？DNS泄露自查与修复指南.md) — 2026-06-06  
+  <sub>故障排查 · 常见问题 · 实用技巧</sub>
 - [晚高峰卡顿怎么办？5个技巧提升速度](content/troubleshooting/2026-05-27_晚高峰卡顿怎么办？5个技巧提升速度.md) — 2026-05-27  
   <sub>故障排查 · 常见问题 · 实用技巧</sub>
 
