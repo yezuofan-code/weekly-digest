@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  📅 持续更新 · 已发布 35 篇内容
+  📅 持续更新 · 已发布 36 篇内容
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <a href="#对比评测"><img src="https://img.shields.io/badge/对比评测-4-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#实用指南"><img src="https://img.shields.io/badge/实用指南-6-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#promotion"><img src="https://img.shields.io/badge/promotion-1-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
-  <a href="#深度评测"><img src="https://img.shields.io/badge/深度评测-6-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
+  <a href="#深度评测"><img src="https://img.shields.io/badge/深度评测-7-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#故障排查"><img src="https://img.shields.io/badge/故障排查-2-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
 </p>
 
@@ -87,6 +87,8 @@
 
 ## 深度评测
 
+- [自由猫 Freecat 深度测评：用了半年的真实体验](content/reviews/2026-06-08_自由猫_Freecat_深度测评_用了半年的真实体验.md) — 2026-06-08  
+  <sub>深度评测 · 真实体验 · 长期使用</sub>
 - [万达云 vs 龙猫云：两家同价位服务商对比实测](content/reviews/2026-05-28_万达云_vs_龙猫云_两家同价位服务商对比实测.md) — 2026-05-28  
   <sub>深度评测 · 真实体验 · 长期使用</sub>
 - [月付5元能买到什么样的网络加速？新华云NewHua99低价套餐实测](content/reviews/2026-05-27_月付5元能买到什么样的网络加速？新华云NewHua99低价套餐实测.md) — 2026-05-27  
