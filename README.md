@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  📅 持续更新 · 已发布 36 篇内容
+  📅 持续更新 · 已发布 37 篇内容
 </p>
 
 <p align="center">
-  <a href="#AI 教程"><img src="https://img.shields.io/badge/AI 教程-6-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
+  <a href="#AI 教程"><img src="https://img.shields.io/badge/AI 教程-7-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#选购指南"><img src="https://img.shields.io/badge/选购指南-10-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#对比评测"><img src="https://img.shields.io/badge/对比评测-4-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#实用指南"><img src="https://img.shields.io/badge/实用指南-6-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
@@ -22,6 +22,8 @@
 
 ## AI 教程
 
+- [Cursor AI 编程工具入门：不会代码也能写程序](content/ai_tutorials/2026-06-09_Cursor_AI_编程工具入门_不会代码也能写程序.md) — 2026-06-09  
+  <sub>AI教程 · 效率工具 · 入门指南</sub>
 - [Perplexity AI 搜索工具使用教程：比Google更好用](content/ai_tutorials/2026-06-04_Perplexity_AI_搜索工具使用教程_比Google更好用.md) — 2026-06-04  
   <sub>AI教程 · 效率工具 · 入门指南</sub>
 - [Claude 3.5 中文使用指南：比ChatGPT强在哪](content/ai_tutorials/2026-06-03_Claude_3.5_中文使用指南_比ChatGPT强在哪.md) — 2026-06-03  

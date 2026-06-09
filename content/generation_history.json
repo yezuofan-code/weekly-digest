@@ -355,5 +355,15 @@
     "image_count": 0,
     "cycle_index": 6,
     "fingerprint": "862eed2633cd4d099ac1375f88f44558"
+  },
+  {
+    "date": "2026-06-09",
+    "week_num": 2,
+    "topic": "Cursor AI 编程工具入门：不会代码也能写程序",
+    "type": "ai_tutorial",
+    "article_path": "content/ai_tutorials/2026-06-09_Cursor_AI_编程工具入门_不会代码也能写程序.md",
+    "image_count": 1,
+    "cycle_index": 13,
+    "fingerprint": "18eb408ee863e29894d8e82b28a88767"
   }
 ]
