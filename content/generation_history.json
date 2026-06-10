@@ -365,5 +365,15 @@
     "image_count": 1,
     "cycle_index": 13,
     "fingerprint": "18eb408ee863e29894d8e82b28a88767"
+  },
+  {
+    "date": "2026-06-10",
+    "week_num": 2,
+    "topic": "常见网络加速连接失败问题排查手册",
+    "type": "troubleshooting",
+    "article_path": "content/troubleshooting/2026-06-10_常见网络加速连接失败问题排查手册.md",
+    "image_count": 1,
+    "cycle_index": 24,
+    "fingerprint": "ecaa59b4d0a0bfbce5fefe82f4393eb9"
   }
 ]
