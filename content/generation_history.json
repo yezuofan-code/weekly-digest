@@ -385,5 +385,15 @@
     "image_count": 1,
     "cycle_index": 31,
     "fingerprint": "edabc1daf81b3db49e2b5d8d96e82651"
+  },
+  {
+    "date": "2026-06-12",
+    "week_num": 2,
+    "topic": "手动搭建网络加速服务 vs 商业服务：成本与隐私的全面对比",
+    "type": "comparison",
+    "article_path": "content/comparisons/2026-06-12_手动搭建网络加速服务_vs_商业服务_成本与隐私的全面对比.md",
+    "image_count": 1,
+    "cycle_index": 48,
+    "fingerprint": "60bd54f1e8291767cae95f38d235a359"
   }
 ]
