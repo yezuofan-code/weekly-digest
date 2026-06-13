@@ -395,5 +395,15 @@
     "image_count": 1,
     "cycle_index": 48,
     "fingerprint": "60bd54f1e8291767cae95f38d235a359"
+  },
+  {
+    "date": "2026-06-13",
+    "week_num": 2,
+    "topic": "2026年主流客户端对比：Clash vs Sing-Box vs Surge",
+    "type": "guide",
+    "article_path": "content/guides/2026-06-13_2026年主流客户端对比_Clash_vs_Sing-Box_vs_Surge.md",
+    "image_count": 1,
+    "cycle_index": 20,
+    "fingerprint": "b4cdce24abc60720ee10835ac7aa0dd0"
   }
 ]
