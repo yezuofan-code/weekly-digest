@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  📅 持续更新 · 已发布 41 篇内容
+  📅 持续更新 · 已发布 42 篇内容
 </p>
 
 <p align="center">
   <a href="#AI 教程"><img src="https://img.shields.io/badge/AI 教程-7-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#选购指南"><img src="https://img.shields.io/badge/选购指南-10-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
-  <a href="#对比评测"><img src="https://img.shields.io/badge/对比评测-5-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
+  <a href="#对比评测"><img src="https://img.shields.io/badge/对比评测-6-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#实用指南"><img src="https://img.shields.io/badge/实用指南-8-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#promotion"><img src="https://img.shields.io/badge/promotion-1-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#深度评测"><img src="https://img.shields.io/badge/深度评测-7-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
@@ -59,6 +59,8 @@
 
 ## 对比评测
 
+- [闪狐云 vs 贝贝云：两家热门中转线路服务商横向对比](content/comparisons/2026-06-14_闪狐云_vs_贝贝云_两家热门中转线路服务商横向对比.md) — 2026-06-14  
+  <sub>横向对比 · 性价比 · 选购参考</sub>
 - [手动搭建网络加速服务 vs 商业服务：成本与隐私的全面对比](content/comparisons/2026-06-12_手动搭建网络加速服务_vs_商业服务_成本与隐私的全面对比.md) — 2026-06-12  
   <sub>横向对比 · 性价比 · 选购参考</sub>
 - [iOS端网络加速工具横评：Surge、Quantumult X、Stash三款付费工具实测](content/comparisons/2026-05-27_iOS端网络加速工具横评_Surge、Quantumult_X、Stash三款付费工具实测.md) — 2026-05-27  
