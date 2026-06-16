@@ -425,5 +425,15 @@
     "image_count": 1,
     "cycle_index": 10,
     "fingerprint": "0db96f1cdad8d647de287c6d29e73bf4"
+  },
+  {
+    "date": "2026-06-16",
+    "week_num": 3,
+    "topic": "Midjourney 2026 最新使用指南：从注册到出图",
+    "type": "ai_tutorial",
+    "article_path": "content/ai_tutorials/2026-06-16_Midjourney_2026_最新使用指南_从注册到出图.md",
+    "image_count": 1,
+    "cycle_index": 14,
+    "fingerprint": "ef986f6b7500d3b28f3a2d65942269a0"
   }
 ]

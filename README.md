@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  📅 持续更新 · 已发布 43 篇内容
+  📅 持续更新 · 已发布 44 篇内容
 </p>
 
 <p align="center">
-  <a href="#AI 教程"><img src="https://img.shields.io/badge/AI 教程-7-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
+  <a href="#AI 教程"><img src="https://img.shields.io/badge/AI 教程-8-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#选购指南"><img src="https://img.shields.io/badge/选购指南-10-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#对比评测"><img src="https://img.shields.io/badge/对比评测-6-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#实用指南"><img src="https://img.shields.io/badge/实用指南-8-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
@@ -22,6 +22,8 @@
 
 ## AI 教程
 
+- [Midjourney 2026 最新使用指南：从注册到出图](content/ai_tutorials/2026-06-16_Midjourney_2026_最新使用指南_从注册到出图.md) — 2026-06-16  
+  <sub>AI教程 · 效率工具 · 入门指南</sub>
 - [Cursor AI 编程工具入门：不会代码也能写程序](content/ai_tutorials/2026-06-09_Cursor_AI_编程工具入门_不会代码也能写程序.md) — 2026-06-09  
   <sub>AI教程 · 效率工具 · 入门指南</sub>
 - [Perplexity AI 搜索工具使用教程：比Google更好用](content/ai_tutorials/2026-06-04_Perplexity_AI_搜索工具使用教程_比Google更好用.md) — 2026-06-04  
