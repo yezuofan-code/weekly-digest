@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  📅 持续更新 · 已发布 44 篇内容
+  📅 持续更新 · 已发布 45 篇内容
 </p>
 
 <p align="center">
-  <a href="#AI 教程"><img src="https://img.shields.io/badge/AI 教程-8-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
+  <a href="#AI 教程"><img src="https://img.shields.io/badge/AI 教程-9-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#选购指南"><img src="https://img.shields.io/badge/选购指南-10-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#对比评测"><img src="https://img.shields.io/badge/对比评测-6-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#实用指南"><img src="https://img.shields.io/badge/实用指南-8-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
@@ -22,6 +22,8 @@
 
 ## AI 教程
 
+- [不会写代码也能制作Clash配置文件？ChatGPT帮你搞定](content/ai_tutorials/2026-06-17_不会写代码也能制作Clash配置文件？ChatGPT帮你搞定.md) — 2026-06-17  
+  <sub>AI教程 · 效率工具 · 入门指南</sub>
 - [Midjourney 2026 最新使用指南：从注册到出图](content/ai_tutorials/2026-06-16_Midjourney_2026_最新使用指南_从注册到出图.md) — 2026-06-16  
   <sub>AI教程 · 效率工具 · 入门指南</sub>
 - [Cursor AI 编程工具入门：不会代码也能写程序](content/ai_tutorials/2026-06-09_Cursor_AI_编程工具入门_不会代码也能写程序.md) — 2026-06-09  

@@ -435,5 +435,15 @@
     "image_count": 1,
     "cycle_index": 14,
     "fingerprint": "ef986f6b7500d3b28f3a2d65942269a0"
+  },
+  {
+    "date": "2026-06-17",
+    "week_num": 3,
+    "topic": "不会写代码也能制作Clash配置文件？ChatGPT帮你搞定",
+    "type": "ai_tutorial",
+    "article_path": "content/ai_tutorials/2026-06-17_不会写代码也能制作Clash配置文件？ChatGPT帮你搞定.md",
+    "image_count": 1,
+    "cycle_index": 40,
+    "fingerprint": "558f6ed9a0b31a2ee17662048405addf"
   }
 ]
