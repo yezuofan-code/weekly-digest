@@ -445,5 +445,15 @@
     "image_count": 1,
     "cycle_index": 40,
     "fingerprint": "558f6ed9a0b31a2ee17662048405addf"
+  },
+  {
+    "date": "2026-06-18",
+    "week_num": 3,
+    "topic": "零隐私泄露的网络加速方案：手动配置让你的数据完全自主可控",
+    "type": "guide",
+    "article_path": "content/guides/2026-06-18_零隐私泄露的网络加速方案_手动配置让你的数据完全自主可控.md",
+    "image_count": 1,
+    "cycle_index": 49,
+    "fingerprint": "226f37263270923aa73918576e2f335a"
   }
 ]
