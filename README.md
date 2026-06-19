@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  📅 持续更新 · 已发布 46 篇内容
+  📅 持续更新 · 已发布 47 篇内容
 </p>
 
 <p align="center">
   <a href="#AI 教程"><img src="https://img.shields.io/badge/AI 教程-9-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#选购指南"><img src="https://img.shields.io/badge/选购指南-10-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
-  <a href="#对比评测"><img src="https://img.shields.io/badge/对比评测-6-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
+  <a href="#对比评测"><img src="https://img.shields.io/badge/对比评测-7-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#实用指南"><img src="https://img.shields.io/badge/实用指南-9-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#promotion"><img src="https://img.shields.io/badge/promotion-1-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#深度评测"><img src="https://img.shields.io/badge/深度评测-8-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
@@ -63,6 +63,8 @@
 
 ## 对比评测
 
+- [2026年主流网络加速服务线路类型横向评测：专线、IEPL、中转、家宽全解析](content/comparisons/2026-06-19_2026年主流网络加速服务线路类型横向评测_专线、IEPL、中转、家宽全解析.md) — 2026-06-19  
+  <sub>横向对比 · 性价比 · 选购参考</sub>
 - [闪狐云 vs 贝贝云：两家热门中转线路服务商横向对比](content/comparisons/2026-06-14_闪狐云_vs_贝贝云_两家热门中转线路服务商横向对比.md) — 2026-06-14  
   <sub>横向对比 · 性价比 · 选购参考</sub>
 - [手动搭建网络加速服务 vs 商业服务：成本与隐私的全面对比](content/comparisons/2026-06-12_手动搭建网络加速服务_vs_商业服务_成本与隐私的全面对比.md) — 2026-06-12  
