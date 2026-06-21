@@ -475,5 +475,15 @@
     "image_count": 1,
     "cycle_index": 26,
     "fingerprint": "7ac6e0bb3751192f6e95b66abc48e3d6"
+  },
+  {
+    "date": "2026-06-21",
+    "week_num": 3,
+    "topic": "外贸行业专用网络加速配置指南：如何同时访问多个海外AI工具且不卡顿？",
+    "type": "guide",
+    "article_path": "content/guides/2026-06-21_外贸行业专用网络加速配置指南_如何同时访问多个海外AI工具且不卡顿？.md",
+    "image_count": 1,
+    "cycle_index": 42,
+    "fingerprint": "51d595f592b3f2964df41ed3ed0272e1"
   }
 ]
