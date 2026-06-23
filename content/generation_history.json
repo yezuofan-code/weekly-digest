@@ -495,5 +495,15 @@
     "image_count": 1,
     "cycle_index": 41,
     "fingerprint": "5e9a50765e7829f7dd594a873906bf48"
+  },
+  {
+    "date": "2026-06-23",
+    "week_num": 4,
+    "topic": "从0到1搭建自己的网络加速工作流：客户端选择与配置最佳实践",
+    "type": "guide",
+    "article_path": "content/guides/2026-06-23_从0到1搭建自己的网络加速工作流_客户端选择与配置最佳实践.md",
+    "image_count": 1,
+    "cycle_index": 34,
+    "fingerprint": "9aba465195bd9524949356b273672fba"
   }
 ]
