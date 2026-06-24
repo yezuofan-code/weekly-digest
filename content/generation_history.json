@@ -505,5 +505,15 @@
     "image_count": 1,
     "cycle_index": 34,
     "fingerprint": "9aba465195bd9524949356b273672fba"
+  },
+  {
+    "date": "2026-06-24",
+    "week_num": 4,
+    "topic": "如何测试你的网络加速服务速度",
+    "type": "guide",
+    "article_path": "content/guides/2026-06-24_如何测试你的网络加速服务速度.md",
+    "image_count": 1,
+    "cycle_index": 27,
+    "fingerprint": "559c25f36e6805827bfaaf9e7b574453"
   }
 ]
