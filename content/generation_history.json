@@ -555,5 +555,15 @@
     "image_count": 1,
     "cycle_index": 5,
     "fingerprint": "15437917b03223641e651d7ebb12f059"
+  },
+  {
+    "date": "2026-06-29",
+    "week_num": 5,
+    "topic": "AI效率工具组合：用Perplexity搜索+ChatGPT写作+Claude润色的完整内容生产链",
+    "type": "ai_tutorial",
+    "article_path": "content/ai_tutorials/2026-06-29_AI效率工具组合_用Perplexity搜索+ChatGPT写作+Claude润色的完整内容生产链.md",
+    "image_count": 0,
+    "cycle_index": 35,
+    "fingerprint": "72f500003aa79c2b7567d45c0087d9f7"
   }
 ]
