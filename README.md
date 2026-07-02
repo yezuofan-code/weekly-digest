@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  📅 持续更新 · 已发布 59 篇内容
+  📅 持续更新 · 已发布 60 篇内容
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <a href="#对比评测"><img src="https://img.shields.io/badge/对比评测-9-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#实用指南"><img src="https://img.shields.io/badge/实用指南-12-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#promotion"><img src="https://img.shields.io/badge/promotion-1-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
-  <a href="#深度评测"><img src="https://img.shields.io/badge/深度评测-9-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
+  <a href="#深度评测"><img src="https://img.shields.io/badge/深度评测-10-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#故障排查"><img src="https://img.shields.io/badge/故障排查-4-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
 </p>
 
@@ -125,6 +125,8 @@
 
 ## 深度评测
 
+- [自由猫 Freecat 深度测评：用了半年的真实体验](content/reviews/2026-07-02_自由猫_Freecat_深度测评_用了半年的真实体验.md) — 2026-07-02  
+  <sub>深度评测 · 真实体验 · 长期使用</sub>
 - [自由猫 Freecat 深度测评：用了半年的真实体验](content/reviews/2026-07-01_自由猫_Freecat_深度测评_用了半年的真实体验.md) — 2026-07-01  
   <sub>深度评测 · 真实体验 · 长期使用</sub>
 - [悠兔 YouTu 低调运营的优质机场开箱测评](content/reviews/2026-06-15_悠兔_YouTu_低调运营的优质机场开箱测评.md) — 2026-06-15  
