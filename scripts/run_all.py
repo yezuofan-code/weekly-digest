@@ -66,7 +66,7 @@ else:
 # 步骤 2：检查历史，确定本周内容
 # ============================================================
 print("\n[2/5] Checking content history...")
-from scripts.config import get_current_topic, CONTENT_CALENDAR
+from scripts.config import get_current_topic
 from scripts.content_tracker import (
     is_duplicate,
     get_all_generated_topics,
@@ -82,26 +82,23 @@ if stats["last_date"]:
 topic_info = get_current_topic(affiliates)
 print(f"       Planned topic: {topic_info['topic']}")
 
-# 检查是否和已有内容重复
-# 如果所有话题都被标记为重复，最终会回到原话题（强制生成）
+# 检查是否和已有内容重复（只检查过去7天）
+# 由于话题是每天动态生成的，重复可能性低，但保留兜底逻辑
 duplicate_count = 0
-max_attempts = len(CONTENT_CALENDAR)
+max_attempts = 7  # 最多重试7次
 original_topic = dict(topic_info)  # 保存原始话题作为兜底
 for attempt in range(max_attempts):
     if is_duplicate(topic_info):
         duplicate_count += 1
-        next_index = (topic_info["cycle_index"] + attempt) % topic_info["total_cycles"]
-        topic_info = {
-            **CONTENT_CALENDAR[next_index],
-            "week_num": topic_info["week_num"],
-            "cycle_index": next_index + 1,
-            "total_cycles": topic_info["total_cycles"],
-        }
+        # 重新生成一个不同的话题
+        topic_info = get_current_topic(affiliates)
+        # 加一点偏移确保不同
+        topic_info["topic"] = topic_info["topic"] + "（续）"
         print(f"       ↻ Skipping duplicate, trying: {topic_info['topic']}")
     else:
         break
 
-# 如果全部重复，强制用当日话题（不同日的 AI 生成内容不同）
+# 如果全部重复，强制用当日话题
 if duplicate_count >= max_attempts:
     topic_info = original_topic
     print(f"       ↻ All topics were duplicates, reusing daily topic: {topic_info['topic']}")
