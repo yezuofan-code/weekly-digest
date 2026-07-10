@@ -83,8 +83,10 @@ topic_info = get_current_topic(affiliates)
 print(f"       Planned topic: {topic_info['topic']}")
 
 # 检查是否和已有内容重复
+# 如果所有话题都被标记为重复，最终会回到原话题（强制生成）
 duplicate_count = 0
 max_attempts = len(CONTENT_CALENDAR)
+original_topic = dict(topic_info)  # 保存原始话题作为兜底
 for attempt in range(max_attempts):
     if is_duplicate(topic_info):
         duplicate_count += 1
@@ -98,6 +100,11 @@ for attempt in range(max_attempts):
         print(f"       ↻ Skipping duplicate, trying: {topic_info['topic']}")
     else:
         break
+
+# 如果全部重复，强制用当日话题（不同日的 AI 生成内容不同）
+if duplicate_count >= max_attempts:
+    topic_info = original_topic
+    print(f"       ↻ All topics were duplicates, reusing daily topic: {topic_info['topic']}")
 
 print(f"       ✓ Final topic: {topic_info['topic']}")
 
