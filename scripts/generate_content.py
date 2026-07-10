@@ -225,13 +225,21 @@ def build_article_prompt(topic_info, category_config=None):
 
     prompt = f"""请写一篇中文文章。
 
-【主题】{topic}
+【主题方向】{topic}（以此为基础，可以根据当前最新趋势适当调整具体内容）
 【内容类型】{content_type}
 【重点】{description}
 【写作风格】{style_variant}
 【标签】{tags_str}
+【当前日期】{datetime.date.today().isoformat()}
 
 === 写作要求 ===
+
+【选材要求】
+- 如果是教程类：结合当前最新的工具版本和界面
+- 如果是评测类：基于真实使用体验，加入最近的感受
+- 如果是对比类：对比最新的价格和方案
+- 如果是指南类：覆盖当前最新的工具和配置方法
+- 核心原则：让内容有"新鲜感"，不要让人觉得是旧文章重发
 
 【结构要求】
 - 标题自拟（吸引人、含关键词，但不夸张不标题党）
