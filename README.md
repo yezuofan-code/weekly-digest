@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  📅 持续更新 · 已发布 68 篇内容
+  📅 持续更新 · 已发布 69 篇内容
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
   <a href="#实用指南"><img src="https://img.shields.io/badge/实用指南-12-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#promotion"><img src="https://img.shields.io/badge/promotion-1-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#深度评测"><img src="https://img.shields.io/badge/深度评测-18-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
-  <a href="#故障排查"><img src="https://img.shields.io/badge/故障排查-4-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
+  <a href="#故障排查"><img src="https://img.shields.io/badge/故障排查-5-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
 </p>
 
 <br>
@@ -164,6 +164,8 @@
 
 ## 故障排查
 
+- [网络加速后依然被屏蔽？DNS泄露自查与修复指南](content/troubleshooting/2026-07-10_网络加速后依然被屏蔽？DNS泄露自查与修复指南.md) — 2026-07-10  
+  <sub>故障排查 · 常见问题 · 实用技巧</sub>
 - [网络加速服务突然用不了？先别急着重装](content/troubleshooting/2026-06-20_网络加速服务突然用不了？先别急着重装.md) — 2026-06-20  
   <sub>故障排查 · 常见问题 · 实用技巧</sub>
 - [常见网络加速连接失败问题排查手册](content/troubleshooting/2026-06-10_常见网络加速连接失败问题排查手册.md) — 2026-06-10  

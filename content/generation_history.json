@@ -675,5 +675,15 @@
     "image_count": 0,
     "cycle_index": 7,
     "fingerprint": "28517d1b0665e256342a94db6000051c"
+  },
+  {
+    "date": "2026-07-10",
+    "week_num": 6,
+    "topic": "网络加速后依然被屏蔽？DNS泄露自查与修复指南",
+    "type": "troubleshooting",
+    "article_path": "content/troubleshooting/2026-07-10_网络加速后依然被屏蔽？DNS泄露自查与修复指南.md",
+    "image_count": 0,
+    "cycle_index": 47,
+    "fingerprint": "80bf91d4db246a37163b2ec09cb1c1a0"
   }
 ]
