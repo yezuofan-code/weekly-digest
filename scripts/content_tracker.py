@@ -116,9 +116,13 @@ def is_duplicate(topic_info):
     """
     检查是否和近期内容重复
     使用 Jaccard 相似度 + 内容指纹比对
+    每日轮换：重复检测窗口 = 内容日历总天数的一半（保证话题可循环）
     """
     topic = topic_info["topic"]
-    recent_records = get_recent_topics(weeks_back=8)
+    # 动态窗口：日历话题数的一半（约 4-5 周），确保话题用完一轮后可以复用
+    from scripts.config import CONTENT_CALENDAR
+    window_weeks = max(4, len(CONTENT_CALENDAR) // 14)  # 约日历总天数的一半
+    recent_records = get_recent_topics(weeks_back=window_weeks)
     recent_topics = [r["topic"] for r in recent_records]
     recent_fingerprints = [r.get("fingerprint", "") for r in recent_records if r.get("fingerprint")]
 
