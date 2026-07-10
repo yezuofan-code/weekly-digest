@@ -500,16 +500,16 @@ def ensure_topic_balance(affiliates=None):
 
 
 def get_current_topic(affiliates=None):
-    """获取本周应该写的内容，必要时自动补话题"""
+    """获取今天应该写的内容（每天轮换，永不连续重复）"""
     # 检查并补充推广话题
     ensure_topic_balance(affiliates)
 
-    week_num = get_current_week()
-    index = week_num % len(CONTENT_CALENDAR)
+    days = (datetime.date.today() - PROJECT_START_DATE).days
+    index = days % len(CONTENT_CALENDAR)
     topic = CONTENT_CALENDAR[index]
     return {
         **topic,
-        "week_num": week_num,
+        "week_num": days // 7,
         "cycle_index": index + 1,
         "total_cycles": len(CONTENT_CALENDAR),
     }
