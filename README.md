@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  📅 持续更新 · 已发布 73 篇内容
+  📅 持续更新 · 已发布 74 篇内容
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <a href="#对比评测"><img src="https://img.shields.io/badge/对比评测-10-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#实用指南"><img src="https://img.shields.io/badge/实用指南-13-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#promotion"><img src="https://img.shields.io/badge/promotion-1-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
-  <a href="#深度评测"><img src="https://img.shields.io/badge/深度评测-18-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
+  <a href="#深度评测"><img src="https://img.shields.io/badge/深度评测-19-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#故障排查"><img src="https://img.shields.io/badge/故障排查-6-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
 </p>
 
@@ -131,6 +131,8 @@
 
 ## 深度评测
 
+- [FlyingBird 用了几个月的真实评测](content/reviews/2026-07-14_FlyingBird_用了几个月的真实评测.md) — 2026-07-14  
+  <sub>深度评测 · 真实体验 · 长期使用</sub>
 - [奈云 IEPL 专线体验：168元年付到底值不值](content/reviews/2026-07-10_奈云_IEPL_专线体验_168元年付到底值不值.md) — 2026-07-10  
   <sub>深度评测 · 真实体验 · 长期使用</sub>
 - [奈云 IEPL 专线体验：168元年付到底值不值](content/reviews/2026-07-09_奈云_IEPL_专线体验_168元年付到底值不值.md) — 2026-07-09  
