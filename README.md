@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  📅 持续更新 · 已发布 74 篇内容
+  📅 持续更新 · 已发布 75 篇内容
 </p>
 
 <p align="center">
-  <a href="#AI 教程"><img src="https://img.shields.io/badge/AI 教程-10-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
+  <a href="#AI 教程"><img src="https://img.shields.io/badge/AI 教程-11-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#选购指南"><img src="https://img.shields.io/badge/选购指南-15-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#对比评测"><img src="https://img.shields.io/badge/对比评测-10-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#实用指南"><img src="https://img.shields.io/badge/实用指南-13-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
@@ -22,6 +22,8 @@
 
 ## AI 教程
 
+- [AI 工具组合工作流：效率翻倍的秘诀](content/ai_tutorials/2026-07-15_AI_工具组合工作流_效率翻倍的秘诀.md) — 2026-07-15  
+  <sub>AI教程 · 效率工具 · 入门指南</sub>
 - [AI效率工具组合：用Perplexity搜索+ChatGPT写作+Claude润色的完整内容生产链](content/ai_tutorials/2026-06-29_AI效率工具组合_用Perplexity搜索+ChatGPT写作+Claude润色的完整内容生产链.md) — 2026-06-29  
   <sub>AI教程 · 效率工具 · 入门指南</sub>
 - [不会写代码也能制作Clash配置文件？ChatGPT帮你搞定](content/ai_tutorials/2026-06-17_不会写代码也能制作Clash配置文件？ChatGPT帮你搞定.md) — 2026-06-17  
