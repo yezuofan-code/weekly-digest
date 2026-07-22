@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  📅 持续更新 · 已发布 81 篇内容
+  📅 持续更新 · 已发布 82 篇内容
 </p>
 
 <p align="center">
-  <a href="#AI 教程"><img src="https://img.shields.io/badge/AI 教程-11-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
+  <a href="#AI 教程"><img src="https://img.shields.io/badge/AI 教程-12-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#选购指南"><img src="https://img.shields.io/badge/选购指南-16-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#对比评测"><img src="https://img.shields.io/badge/对比评测-11-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#实用指南"><img src="https://img.shields.io/badge/实用指南-15-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
@@ -22,6 +22,8 @@
 
 ## AI 教程
 
+- [近期值得关注的 AI 工具推荐](content/ai_tutorials/2026-07-22_近期值得关注的_AI_工具推荐.md) — 2026-07-22  
+  <sub>AI教程 · 效率工具 · 入门指南</sub>
 - [AI 工具组合工作流：效率翻倍的秘诀](content/ai_tutorials/2026-07-15_AI_工具组合工作流_效率翻倍的秘诀.md) — 2026-07-15  
   <sub>AI教程 · 效率工具 · 入门指南</sub>
 - [AI效率工具组合：用Perplexity搜索+ChatGPT写作+Claude润色的完整内容生产链](content/ai_tutorials/2026-06-29_AI效率工具组合_用Perplexity搜索+ChatGPT写作+Claude润色的完整内容生产链.md) — 2026-06-29  
