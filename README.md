@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  📅 持续更新 · 已发布 84 篇内容
+  📅 持续更新 · 已发布 85 篇内容
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
   <a href="#实用指南"><img src="https://img.shields.io/badge/实用指南-16-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#promotion"><img src="https://img.shields.io/badge/promotion-1-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#深度评测"><img src="https://img.shields.io/badge/深度评测-20-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
-  <a href="#故障排查"><img src="https://img.shields.io/badge/故障排查-7-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
+  <a href="#故障排查"><img src="https://img.shields.io/badge/故障排查-8-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
 </p>
 
 <br>
@@ -190,6 +190,8 @@
 
 ## 故障排查
 
+- [网络加速突然用不了？一步步排查](content/troubleshooting/2026-07-25_网络加速突然用不了？一步步排查.md) — 2026-07-25  
+  <sub>故障排查 · 常见问题 · 实用技巧</sub>
 - [网络加速突然用不了？一步步排查](content/troubleshooting/2026-07-18_网络加速突然用不了？一步步排查.md) — 2026-07-18  
   <sub>故障排查 · 常见问题 · 实用技巧</sub>
 - [网络加速突然用不了？一步步排查](content/troubleshooting/2026-07-11_网络加速突然用不了？一步步排查.md) — 2026-07-11  
