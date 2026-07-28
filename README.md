@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  📅 持续更新 · 已发布 87 篇内容
+  📅 持续更新 · 已发布 88 篇内容
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <a href="#对比评测"><img src="https://img.shields.io/badge/对比评测-12-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#实用指南"><img src="https://img.shields.io/badge/实用指南-17-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#promotion"><img src="https://img.shields.io/badge/promotion-1-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
-  <a href="#深度评测"><img src="https://img.shields.io/badge/深度评测-20-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
+  <a href="#深度评测"><img src="https://img.shields.io/badge/深度评测-21-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#故障排查"><img src="https://img.shields.io/badge/故障排查-8-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
 </p>
 
@@ -151,6 +151,8 @@
 
 ## 深度评测
 
+- [长期使用后的真实感受：好坏都说清楚](content/reviews/2026-07-28_长期使用后的真实感受_好坏都说清楚.md) — 2026-07-28  
+  <sub>深度评测 · 真实体验 · 长期使用</sub>
 - [长期使用后的真实感受：好坏都说清楚](content/reviews/2026-07-21_长期使用后的真实感受_好坏都说清楚.md) — 2026-07-21  
   <sub>深度评测 · 真实体验 · 长期使用</sub>
 - [FlyingBird 用了几个月的真实评测](content/reviews/2026-07-14_FlyingBird_用了几个月的真实评测.md) — 2026-07-14  
