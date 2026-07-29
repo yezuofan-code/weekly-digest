@@ -875,5 +875,15 @@
     "image_count": 1,
     "cycle_index": 2,
     "fingerprint": "fa515e1671213fc464b30cf90caca17b"
+  },
+  {
+    "date": "2026-07-29",
+    "week_num": 9,
+    "topic": "近期值得关注的 AI 工具推荐",
+    "type": "ai_tutorial",
+    "article_path": "content/ai_tutorials/2026-07-29_近期值得关注的_AI_工具推荐.md",
+    "image_count": 1,
+    "cycle_index": 3,
+    "fingerprint": "99c050d3c68fbb7721f2fc0e39ac792b"
   }
 ]
