@@ -945,5 +945,15 @@
     "image_count": 1,
     "cycle_index": 2,
     "fingerprint": "6680de5254aad11974fa2695523f217f"
+  },
+  {
+    "date": "2026-08-05",
+    "week_num": 10,
+    "topic": "AI 工具组合工作流：效率翻倍的秘诀",
+    "type": "ai_tutorial",
+    "article_path": "content/ai_tutorials/2026-08-05_AI_工具组合工作流_效率翻倍的秘诀.md",
+    "image_count": 1,
+    "cycle_index": 3,
+    "fingerprint": "4b520ef4afffb293060ada321e7d71b1"
   }
 ]
