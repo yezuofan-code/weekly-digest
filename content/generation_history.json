@@ -975,5 +975,15 @@
     "image_count": 1,
     "cycle_index": 5,
     "fingerprint": "2f3c40e021ebd401e1f5a8b1c4f8aff3"
+  },
+  {
+    "date": "2026-08-08",
+    "week_num": 10,
+    "topic": "网络加速突然用不了？一步步排查",
+    "type": "troubleshooting",
+    "article_path": "content/troubleshooting/2026-08-08_网络加速突然用不了？一步步排查.md",
+    "image_count": 1,
+    "cycle_index": 6,
+    "fingerprint": "a38b592c0b3a4326289bb9957322a7f2"
   }
 ]
