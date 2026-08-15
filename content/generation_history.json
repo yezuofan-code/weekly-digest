@@ -1045,5 +1045,15 @@
     "image_count": 0,
     "cycle_index": 5,
     "fingerprint": "4e33e69d659211273ce1e7e420daac2c"
+  },
+  {
+    "date": "2026-08-15",
+    "week_num": 11,
+    "topic": "网络加速常见问题排查手册",
+    "type": "troubleshooting",
+    "article_path": "content/troubleshooting/2026-08-15_网络加速常见问题排查手册.md",
+    "image_count": 1,
+    "cycle_index": 6,
+    "fingerprint": "5a3a2773abd2cf4f140f3c9fe753a825"
   }
 ]
