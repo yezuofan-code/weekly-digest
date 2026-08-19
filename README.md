@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  📅 持续更新 · 已发布 109 篇内容
+  📅 持续更新 · 已发布 110 篇内容
 </p>
 
 <p align="center">
-  <a href="#AI 教程"><img src="https://img.shields.io/badge/AI 教程-15-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
+  <a href="#AI 教程"><img src="https://img.shields.io/badge/AI 教程-16-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#选购指南"><img src="https://img.shields.io/badge/选购指南-20-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#对比评测"><img src="https://img.shields.io/badge/对比评测-15-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#实用指南"><img src="https://img.shields.io/badge/实用指南-23-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
@@ -22,6 +22,8 @@
 
 ## AI 教程
 
+- [近期值得关注的 AI 工具推荐](content/ai_tutorials/2026-08-19_近期值得关注的_AI_工具推荐.md) — 2026-08-19  
+  <sub>AI教程 · 效率工具 · 入门指南</sub>
 - [2026年热门 AI 工具使用教程](content/ai_tutorials/2026-08-12_2026年热门_AI_工具使用教程.md) — 2026-08-12  
   <sub>AI教程 · 效率工具 · 入门指南</sub>
 - [AI 工具组合工作流：效率翻倍的秘诀](content/ai_tutorials/2026-08-05_AI_工具组合工作流_效率翻倍的秘诀.md) — 2026-08-05  
