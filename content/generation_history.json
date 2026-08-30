@@ -1195,5 +1195,15 @@
     "image_count": 1,
     "cycle_index": 6,
     "fingerprint": "b4464509922832cfc22b801e63f7bac5"
+  },
+  {
+    "date": "2026-08-30",
+    "week_num": 13,
+    "topic": "多设备共享网络加速的最佳方案",
+    "type": "guide",
+    "article_path": "content/guides/2026-08-30_多设备共享网络加速的最佳方案.md",
+    "image_count": 1,
+    "cycle_index": 7,
+    "fingerprint": "c9e316d361c3190c38c309851c75a659"
   }
 ]
