@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  📅 持续更新 · 已发布 125 篇内容
+  📅 持续更新 · 已发布 126 篇内容
 </p>
 
 <p align="center">
   <a href="#AI 教程"><img src="https://img.shields.io/badge/AI 教程-18-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#选购指南"><img src="https://img.shields.io/badge/选购指南-22-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
-  <a href="#对比评测"><img src="https://img.shields.io/badge/对比评测-17-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
+  <a href="#对比评测"><img src="https://img.shields.io/badge/对比评测-18-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#实用指南"><img src="https://img.shields.io/badge/实用指南-28-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#promotion"><img src="https://img.shields.io/badge/promotion-1-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#深度评测"><img src="https://img.shields.io/badge/深度评测-26-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
@@ -105,6 +105,8 @@
 
 ## 对比评测
 
+- [几家热门服务商实测对比：谁才是性价比之王](content/comparisons/2026-09-04_几家热门服务商实测对比_谁才是性价比之王.md) — 2026-09-04  
+  <sub>横向对比 · 性价比 · 选购参考</sub>
 - [几家热门服务商实测对比：谁才是性价比之王](content/comparisons/2026-08-28_几家热门服务商实测对比_谁才是性价比之王.md) — 2026-08-28  
   <sub>横向对比 · 性价比 · 选购参考</sub>
 - [主流网络加速服务横向对比：哪家更适合你](content/comparisons/2026-08-21_主流网络加速服务横向对比_哪家更适合你.md) — 2026-08-21  
