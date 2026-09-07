@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  📅 持续更新 · 已发布 128 篇内容
+  📅 持续更新 · 已发布 129 篇内容
 </p>
 
 <p align="center">
   <a href="#AI 教程"><img src="https://img.shields.io/badge/AI 教程-18-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
-  <a href="#选购指南"><img src="https://img.shields.io/badge/选购指南-22-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
+  <a href="#选购指南"><img src="https://img.shields.io/badge/选购指南-23-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#对比评测"><img src="https://img.shields.io/badge/对比评测-18-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#实用指南"><img src="https://img.shields.io/badge/实用指南-29-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#promotion"><img src="https://img.shields.io/badge/promotion-1-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
@@ -61,6 +61,8 @@
 
 ## 选购指南
 
+- [不同预算怎么选？从入门到高端的网络加速方案](content/buying_guides/2026-09-07_不同预算怎么选？从入门到高端的网络加速方案.md) — 2026-09-07  
+  <sub>选购指南 · 对比评测 · 新手必看</sub>
 - [仙路湾 这几家怎么选？真实对比告诉你](content/buying_guides/2026-08-31_仙路湾_这几家怎么选？真实对比告诉你.md) — 2026-08-31  
   <sub>选购指南 · 对比评测 · 新手必看</sub>
 - [不同预算怎么选？从入门到高端的网络加速方案](content/buying_guides/2026-08-24_不同预算怎么选？从入门到高端的网络加速方案.md) — 2026-08-24  
