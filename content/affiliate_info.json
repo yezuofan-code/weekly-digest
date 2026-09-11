@@ -1111,5 +1111,36 @@
     "cons": [
       ""
     ]
+  },
+  "SeeleCloud": {
+    "lines": [
+      ""
+    ],
+    "locations": [
+      "日本",
+      "新加坡",
+      "香港",
+      "美国"
+    ],
+    "optimized": [
+      ""
+    ],
+    "pricing": [
+      {
+        "plan": "月付",
+        "price": "",
+        "traffic": "",
+        "devices": ""
+      }
+    ],
+    "features": [
+      ""
+    ],
+    "pros": [
+      ""
+    ],
+    "cons": [
+      ""
+    ]
   }
 }
