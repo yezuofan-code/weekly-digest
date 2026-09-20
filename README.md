@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  📅 持续更新 · 已发布 141 篇内容
+  📅 持续更新 · 已发布 142 篇内容
 </p>
 
 <p align="center">
   <a href="#AI 教程"><img src="https://img.shields.io/badge/AI 教程-20-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#选购指南"><img src="https://img.shields.io/badge/选购指南-24-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#对比评测"><img src="https://img.shields.io/badge/对比评测-20-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
-  <a href="#实用指南"><img src="https://img.shields.io/badge/实用指南-32-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
+  <a href="#实用指南"><img src="https://img.shields.io/badge/实用指南-33-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#promotion"><img src="https://img.shields.io/badge/promotion-1-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#深度评测"><img src="https://img.shields.io/badge/深度评测-28-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#故障排查"><img src="https://img.shields.io/badge/故障排查-16-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
@@ -156,6 +156,8 @@
 
 ## 实用指南
 
+- [从零开始配置网络加速工作流](content/guides/2026-09-20_从零开始配置网络加速工作流.md) — 2026-09-20  
+  <sub>实用教程 · 经验分享 · 配置指南</sub>
 - [从零开始配置网络加速工作流](content/guides/2026-09-17_从零开始配置网络加速工作流.md) — 2026-09-17  
   <sub>实用教程 · 经验分享 · 配置指南</sub>
 - [网络加速客户端配置教程：新手也能看懂](content/guides/2026-09-13_网络加速客户端配置教程_新手也能看懂.md) — 2026-09-13  
