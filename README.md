@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  📅 持续更新 · 已发布 145 篇内容
+  📅 持续更新 · 已发布 146 篇内容
 </p>
 
 <p align="center">
   <a href="#AI 教程"><img src="https://img.shields.io/badge/AI 教程-21-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#选购指南"><img src="https://img.shields.io/badge/选购指南-25-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#对比评测"><img src="https://img.shields.io/badge/对比评测-20-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
-  <a href="#实用指南"><img src="https://img.shields.io/badge/实用指南-33-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
+  <a href="#实用指南"><img src="https://img.shields.io/badge/实用指南-34-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#promotion"><img src="https://img.shields.io/badge/promotion-1-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#深度评测"><img src="https://img.shields.io/badge/深度评测-29-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#故障排查"><img src="https://img.shields.io/badge/故障排查-16-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
@@ -56,9 +56,9 @@
   <sub>AI教程 · 效率工具 · 入门指南</sub>
 - [Claude 3.5 中文使用指南：比ChatGPT强在哪](content/ai_tutorials/2026-06-03_Claude_3.5_中文使用指南_比ChatGPT强在哪.md) — 2026-06-03  
   <sub>AI教程 · 效率工具 · 入门指南</sub>
-- [2026年使用Sora生成视频完整教程：从注册到出片](content/ai_tutorials/2026-05-27_2026年使用Sora生成视频完整教程_从注册到出片.md) — 2026-05-27  
-  <sub>AI教程 · 效率工具 · 入门指南</sub>
 - [2026年必装的10个AI工具，提升工作效率200%](content/ai_tutorials/2026-05-27_2026年必装的10个AI工具，提升工作效率200%.md) — 2026-05-27  
+  <sub>AI教程 · 效率工具 · 入门指南</sub>
+- [2026年使用Sora生成视频完整教程：从注册到出片](content/ai_tutorials/2026-05-27_2026年使用Sora生成视频完整教程_从注册到出片.md) — 2026-05-27  
   <sub>AI教程 · 效率工具 · 入门指南</sub>
 - [ChatGPT 国内使用完整教程 2026](content/ai_tutorials/2026-05-26_ChatGPT_国内使用完整教程_2026.md) — 2026-05-26  
   <sub>AI教程 · 效率工具 · 入门指南</sub>
@@ -109,11 +109,11 @@
   <sub>选购指南 · 对比评测 · 新手必看</sub>
 - [2026年网络加速服务选购指南：教你找到最适合自己的](content/buying_guides/2026-05-28_2026年网络加速服务选购指南_教你找到最适合自己的.md) — 2026-05-28  
   <sub>选购指南 · 对比评测 · 新手必看</sub>
+- [月付10元 vs 月付50元：不同价位的网络加速差别有多大](content/buying_guides/2026-05-26_月付10元_vs_月付50元_不同价位的网络加速差别有多大.md) — 2026-05-26
 - [外贸打工人必备的网络加速工具推荐](content/buying_guides/2026-05-26_外贸打工人必备的网络加速工具推荐.md) — 2026-05-26  
   <sub>选购指南 · 对比评测 · 新手必看</sub>
-- [2026年机场选购指南：教你找到最适合自己的网络加速服务](content/buying_guides/2026-05-26_2026年机场选购指南_教你找到最适合自己的网络加速服务.md) — 2026-05-26
 - [2026年网络加速服务选购指南：教你找到最适合自己的](content/buying_guides/2026-05-26_2026年网络加速服务选购指南_教你找到最适合自己的.md) — 2026-05-26
-- [月付10元 vs 月付50元：不同价位的网络加速差别有多大](content/buying_guides/2026-05-26_月付10元_vs_月付50元_不同价位的网络加速差别有多大.md) — 2026-05-26
+- [2026年机场选购指南：教你找到最适合自己的网络加速服务](content/buying_guides/2026-05-26_2026年机场选购指南_教你找到最适合自己的网络加速服务.md) — 2026-05-26
 
 ## 对比评测
 
@@ -149,17 +149,19 @@
   <sub>横向对比 · 性价比 · 选购参考</sub>
 - [手动搭建网络加速服务 vs 商业服务：成本与隐私的全面对比](content/comparisons/2026-06-12_手动搭建网络加速服务_vs_商业服务_成本与隐私的全面对比.md) — 2026-06-12  
   <sub>横向对比 · 性价比 · 选购参考</sub>
-- [三大入门级IEPL服务商横向对比：自由猫、奈云、MESL实测数据大公开](content/comparisons/2026-05-27_三大入门级IEPL服务商横向对比_自由猫、奈云、MESL实测数据大公开.md) — 2026-05-27  
-  <sub>横向对比 · 性价比 · 选购参考</sub>
-- [IEPL专线 vs 普通中转：到底差在哪](content/comparisons/2026-05-27_IEPL专线_vs_普通中转_到底差在哪.md) — 2026-05-27  
+- [iOS端网络加速工具横评：Surge、Quantumult X、Stash三款付费工具实测](content/comparisons/2026-05-27_iOS端网络加速工具横评_Surge、Quantumult_X、Stash三款付费工具实测.md) — 2026-05-27  
   <sub>横向对比 · 性价比 · 选购参考</sub>
 - [年付套餐值不值？帮你算一笔账](content/comparisons/2026-05-27_年付套餐值不值？帮你算一笔账.md) — 2026-05-27  
   <sub>横向对比 · 性价比 · 选购参考</sub>
-- [iOS端网络加速工具横评：Surge、Quantumult X、Stash三款付费工具实测](content/comparisons/2026-05-27_iOS端网络加速工具横评_Surge、Quantumult_X、Stash三款付费工具实测.md) — 2026-05-27  
+- [IEPL专线 vs 普通中转：到底差在哪](content/comparisons/2026-05-27_IEPL专线_vs_普通中转_到底差在哪.md) — 2026-05-27  
+  <sub>横向对比 · 性价比 · 选购参考</sub>
+- [三大入门级IEPL服务商横向对比：自由猫、奈云、MESL实测数据大公开](content/comparisons/2026-05-27_三大入门级IEPL服务商横向对比_自由猫、奈云、MESL实测数据大公开.md) — 2026-05-27  
   <sub>横向对比 · 性价比 · 选购参考</sub>
 
 ## 实用指南
 
+- [网络加速客户端配置教程：新手也能看懂](content/guides/2026-09-24_网络加速客户端配置教程_新手也能看懂.md) — 2026-09-24  
+  <sub>实用教程 · 经验分享 · 配置指南</sub>
 - [从零开始配置网络加速工作流](content/guides/2026-09-20_从零开始配置网络加速工作流.md) — 2026-09-20  
   <sub>实用教程 · 经验分享 · 配置指南</sub>
 - [从零开始配置网络加速工作流](content/guides/2026-09-17_从零开始配置网络加速工作流.md) — 2026-09-17  

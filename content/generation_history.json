@@ -1445,5 +1445,15 @@
     "image_count": 0,
     "cycle_index": 3,
     "fingerprint": "5f3d979465ab7a980fecd6388b71ab50"
+  },
+  {
+    "date": "2026-09-24",
+    "week_num": 17,
+    "topic": "网络加速客户端配置教程：新手也能看懂",
+    "type": "guide",
+    "article_path": "content/guides/2026-09-24_网络加速客户端配置教程_新手也能看懂.md",
+    "image_count": 0,
+    "cycle_index": 4,
+    "fingerprint": "de49a8b362a80d2e1328c78cc22aba4d"
   }
 ]
