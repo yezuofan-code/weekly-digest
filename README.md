@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  📅 持续更新 · 已发布 147 篇内容
+  📅 持续更新 · 已发布 148 篇内容
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
   <a href="#实用指南"><img src="https://img.shields.io/badge/实用指南-34-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#promotion"><img src="https://img.shields.io/badge/promotion-1-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#深度评测"><img src="https://img.shields.io/badge/深度评测-29-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
-  <a href="#故障排查"><img src="https://img.shields.io/badge/故障排查-16-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
+  <a href="#故障排查"><img src="https://img.shields.io/badge/故障排查-17-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
 </p>
 
 <br>
@@ -298,6 +298,8 @@
 
 ## 故障排查
 
+- [晚高峰卡顿怎么办？实用技巧汇总](content/troubleshooting/2026-09-26_晚高峰卡顿怎么办？实用技巧汇总.md) — 2026-09-26  
+  <sub>故障排查 · 常见问题 · 实用技巧</sub>
 - [晚高峰卡顿怎么办？实用技巧汇总](content/troubleshooting/2026-09-19_晚高峰卡顿怎么办？实用技巧汇总.md) — 2026-09-19  
   <sub>故障排查 · 常见问题 · 实用技巧</sub>
 - [晚高峰卡顿怎么办？实用技巧汇总](content/troubleshooting/2026-09-12_晚高峰卡顿怎么办？实用技巧汇总.md) — 2026-09-12  
