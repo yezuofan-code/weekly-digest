@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  📅 持续更新 · 已发布 149 篇内容
+  📅 持续更新 · 已发布 150 篇内容
 </p>
 
 <p align="center">
   <a href="#AI 教程"><img src="https://img.shields.io/badge/AI 教程-21-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
-  <a href="#选购指南"><img src="https://img.shields.io/badge/选购指南-25-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
+  <a href="#选购指南"><img src="https://img.shields.io/badge/选购指南-26-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#对比评测"><img src="https://img.shields.io/badge/对比评测-21-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#实用指南"><img src="https://img.shields.io/badge/实用指南-35-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#promotion"><img src="https://img.shields.io/badge/promotion-1-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
@@ -67,6 +67,8 @@
 
 ## 选购指南
 
+- [新手买网络加速服务防坑指南](content/buying_guides/2026-09-28_新手买网络加速服务防坑指南.md) — 2026-09-28  
+  <sub>选购指南 · 对比评测 · 新手必看</sub>
 - [NXO Earth 这几家怎么选？真实对比告诉你](content/buying_guides/2026-09-21_NXO_Earth_这几家怎么选？真实对比告诉你.md) — 2026-09-21  
   <sub>选购指南 · 对比评测 · 新手必看</sub>
 - [不同预算怎么选？从入门到高端的网络加速方案](content/buying_guides/2026-09-14_不同预算怎么选？从入门到高端的网络加速方案.md) — 2026-09-14  
