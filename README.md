@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  📅 持续更新 · 已发布 150 篇内容
+  📅 持续更新 · 已发布 151 篇内容
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <a href="#对比评测"><img src="https://img.shields.io/badge/对比评测-21-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#实用指南"><img src="https://img.shields.io/badge/实用指南-35-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#promotion"><img src="https://img.shields.io/badge/promotion-1-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
-  <a href="#深度评测"><img src="https://img.shields.io/badge/深度评测-29-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
+  <a href="#深度评测"><img src="https://img.shields.io/badge/深度评测-30-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#故障排查"><img src="https://img.shields.io/badge/故障排查-17-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
 </p>
 
@@ -241,6 +241,8 @@
 
 ## 深度评测
 
+- [深度体验分享：最近在用的网络加速服务](content/reviews/2026-09-29_深度体验分享_最近在用的网络加速服务.md) — 2026-09-29  
+  <sub>深度评测 · 真实体验 · 长期使用</sub>
 - [Cyberguard 用了几个月的真实评测](content/reviews/2026-09-22_Cyberguard_用了几个月的真实评测.md) — 2026-09-22  
   <sub>深度评测 · 真实体验 · 长期使用</sub>
 - [自由猫 用了几个月的真实评测](content/reviews/2026-09-15_自由猫_用了几个月的真实评测.md) — 2026-09-15  
