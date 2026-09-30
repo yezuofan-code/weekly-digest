@@ -1505,5 +1505,15 @@
     "image_count": 0,
     "cycle_index": 2,
     "fingerprint": "8f073ef0f911a421245c4ba745255397"
+  },
+  {
+    "date": "2026-09-30",
+    "week_num": 18,
+    "topic": "2026年热门 AI 工具使用教程",
+    "type": "ai_tutorial",
+    "article_path": "content/ai_tutorials/2026-09-30_2026年热门_AI_工具使用教程.md",
+    "image_count": 0,
+    "cycle_index": 3,
+    "fingerprint": "7ecd9870ca95a9f995e10e8c5ee6c625"
   }
 ]
