@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  📅 持续更新 · 已发布 153 篇内容
+  📅 持续更新 · 已发布 154 篇内容
 </p>
 
 <p align="center">
   <a href="#AI 教程"><img src="https://img.shields.io/badge/AI 教程-22-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#选购指南"><img src="https://img.shields.io/badge/选购指南-26-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
-  <a href="#对比评测"><img src="https://img.shields.io/badge/对比评测-21-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
+  <a href="#对比评测"><img src="https://img.shields.io/badge/对比评测-22-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#实用指南"><img src="https://img.shields.io/badge/实用指南-36-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#promotion"><img src="https://img.shields.io/badge/promotion-1-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#深度评测"><img src="https://img.shields.io/badge/深度评测-30-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
@@ -121,6 +121,8 @@
 
 ## 对比评测
 
+- [主流网络加速服务横向对比：哪家更适合你](content/comparisons/2026-10-02_主流网络加速服务横向对比_哪家更适合你.md) — 2026-10-02  
+  <sub>横向对比 · 性价比 · 选购参考</sub>
 - [线路类型大对比：专线 vs IEPL vs 中转 vs 家宽](content/comparisons/2026-09-25_线路类型大对比_专线_vs_IEPL_vs_中转_vs_家宽.md) — 2026-09-25  
   <sub>横向对比 · 性价比 · 选购参考</sub>
 - [几家热门服务商实测对比：谁才是性价比之王](content/comparisons/2026-09-18_几家热门服务商实测对比_谁才是性价比之王.md) — 2026-09-18  
