@@ -1545,5 +1545,15 @@
     "image_count": 0,
     "cycle_index": 6,
     "fingerprint": "8f3ae305a93f1dac4388bb027124dd76"
+  },
+  {
+    "date": "2026-10-04",
+    "week_num": 18,
+    "topic": "从零开始配置网络加速工作流",
+    "type": "guide",
+    "article_path": "content/guides/2026-10-04_从零开始配置网络加速工作流.md",
+    "image_count": 0,
+    "cycle_index": 7,
+    "fingerprint": "60b7e10bdaccfc3f6911958aa3d8fe00"
   }
 ]
