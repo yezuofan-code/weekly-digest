@@ -1665,5 +1665,15 @@
     "image_count": 0,
     "cycle_index": 4,
     "fingerprint": "4d29bd1a92e25baacf4f139f3a72fa9a"
+  },
+  {
+    "date": "2026-10-16",
+    "week_num": 20,
+    "topic": "线路类型大对比：专线 vs IEPL vs 中转 vs 家宽",
+    "type": "comparison",
+    "article_path": "content/comparisons/2026-10-16_线路类型大对比_专线_vs_IEPL_vs_中转_vs_家宽.md",
+    "image_count": 0,
+    "cycle_index": 5,
+    "fingerprint": "1843e365efac31d11fe1e2ea03d03b8e"
   }
 ]
