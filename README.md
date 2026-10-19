@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  📅 持续更新 · 已发布 170 篇内容
+  📅 持续更新 · 已发布 171 篇内容
 </p>
 
 <p align="center">
   <a href="#AI 教程"><img src="https://img.shields.io/badge/AI 教程-24-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
-  <a href="#选购指南"><img src="https://img.shields.io/badge/选购指南-28-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
+  <a href="#选购指南"><img src="https://img.shields.io/badge/选购指南-29-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#对比评测"><img src="https://img.shields.io/badge/对比评测-24-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#实用指南"><img src="https://img.shields.io/badge/实用指南-41-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#promotion"><img src="https://img.shields.io/badge/promotion-1-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
@@ -73,6 +73,8 @@
 
 ## 选购指南
 
+- [新手买网络加速服务防坑指南](content/buying_guides/2026-10-19_新手买网络加速服务防坑指南.md) — 2026-10-19  
+  <sub>选购指南 · 对比评测 · 新手必看</sub>
 - [新手买网络加速服务防坑指南](content/buying_guides/2026-10-12_新手买网络加速服务防坑指南.md) — 2026-10-12  
   <sub>选购指南 · 对比评测 · 新手必看</sub>
 - [网络加速服务选购指南：怎么找到最适合自己的](content/buying_guides/2026-10-05_网络加速服务选购指南_怎么找到最适合自己的.md) — 2026-10-05  
