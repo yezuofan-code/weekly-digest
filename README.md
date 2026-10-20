@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  📅 持续更新 · 已发布 171 篇内容
+  📅 持续更新 · 已发布 172 篇内容
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <a href="#对比评测"><img src="https://img.shields.io/badge/对比评测-24-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#实用指南"><img src="https://img.shields.io/badge/实用指南-41-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#promotion"><img src="https://img.shields.io/badge/promotion-1-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
-  <a href="#深度评测"><img src="https://img.shields.io/badge/深度评测-32-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
+  <a href="#深度评测"><img src="https://img.shields.io/badge/深度评测-33-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
   <a href="#故障排查"><img src="https://img.shields.io/badge/故障排查-20-2d3436?style=for-the-badge&labelColor=0f3460"/></a>
 </p>
 
@@ -271,6 +271,8 @@
 
 ## 深度评测
 
+- [深度体验分享：最近在用的网络加速服务](content/reviews/2026-10-20_深度体验分享_最近在用的网络加速服务.md) — 2026-10-20  
+  <sub>深度评测 · 真实体验 · 长期使用</sub>
 - [山水云 用了几个月的真实评测](content/reviews/2026-10-13_山水云_用了几个月的真实评测.md) — 2026-10-13  
   <sub>深度评测 · 真实体验 · 长期使用</sub>
 - [深度体验分享：最近在用的网络加速服务](content/reviews/2026-10-06_深度体验分享_最近在用的网络加速服务.md) — 2026-10-06  
